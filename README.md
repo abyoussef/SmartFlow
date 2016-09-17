@@ -1,4 +1,7 @@
-# RoadTrafficSimulator
+# Smart Flow 
+Fluid traffic for better cities. 
+
+Forked from [Road Traffic Simulator](http://volkhin.com/RoadTrafficSimulator)
 
 Traffic simulator and road lights adjuster using
 [Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model)
