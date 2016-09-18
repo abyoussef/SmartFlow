@@ -20,10 +20,7 @@ http://volkhin.com/RoadTrafficSimulator
 
 Or just press generateMap in control panel and add cars with carsNumber slider.
 
-## Contributing
-Feel free to send pull requests and create bug reports/reature requests using
-issues. Or just send me your feedback to artem@volkhin.com.
-To run simulator
+## To run simulator
 
     git clone https://github.com/volkhin/RoadTrafficSimulator
     cd RoadTrafficSimulator
@@ -31,4 +28,4 @@ To run simulator
 
 And open index.html in your browser. Use **gulp** to rebuild project.
 
-[![Stories in Ready](https://badge.waffle.io/volkhin/roadtrafficsimulator.png?label=ready&title=Ready)](https://waffle.io/volkhin/roadtrafficsimulator)
+<>([![Stories in Ready](https://badge.waffle.io/volkhin/roadtrafficsimulator.png?label=ready&title=Ready)](https://waffle.io/volkhin/roadtrafficsimulator)) 
