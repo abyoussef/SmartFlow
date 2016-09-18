@@ -28,4 +28,4 @@ Or just press generateMap in control panel and add cars with carsNumber slider.
 
 And open index.html in your browser. Use **gulp** to rebuild project.
 
-<>([![Stories in Ready](https://badge.waffle.io/volkhin/roadtrafficsimulator.png?label=ready&title=Ready)](https://waffle.io/volkhin/roadtrafficsimulator)) 
+[![Stories in Ready](https://badge.waffle.io/volkhin/roadtrafficsimulator.png?label=ready&title=Ready)](https://waffle.io/volkhin/roadtrafficsimulator)
