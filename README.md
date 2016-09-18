@@ -20,10 +20,7 @@ http://volkhin.com/RoadTrafficSimulator
 
 Or just press generateMap in control panel and add cars with carsNumber slider.
 
-## Contributing
-Feel free to send pull requests and create bug reports/reature requests using
-issues. Or just send me your feedback to artem@volkhin.com.
-To run simulator
+## To run simulator
 
     git clone https://github.com/volkhin/RoadTrafficSimulator
     cd RoadTrafficSimulator
