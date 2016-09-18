@@ -1,18 +1,13 @@
 # Smart Flow 
-Fluid traffic for better cities. 
+_Fluid traffic for better cities._
 
 Forked from [Road Traffic Simulator](http://volkhin.com/RoadTrafficSimulator)
 
-Traffic simulator and road lights adjuster using
-[Intelligent Driver Model](https://en.wikipedia.org/wiki/Intelligent_driver_model)
-and lane-changing model MOBIL. Written in CoffeeScript and HTML5.
+This was part of a bootcamp projet to minimize traffic jams in a given city by using A.I. to control traffic lighters. 
 
-Currently it provides only simulator with visualizer but in future releases
-traffic lights optimizer will be added to construct best possible schedule and
-avoid traffic jams.
+
 
 ## Demo
-http://volkhin.com/RoadTrafficSimulator
 
 * Mouse and wheel - scrolling and zoom
 * shift + click -- create intersection
@@ -22,10 +17,13 @@ Or just press generateMap in control panel and add cars with carsNumber slider.
 
 ## To run simulator
 
-    git clone https://github.com/volkhin/RoadTrafficSimulator
-    cd RoadTrafficSimulator
+    git clone https://github.com/abyoussef/SmartFlow
+    cd SmartFlow
     npm install
 
 And open index.html in your browser. Use **gulp** to rebuild project.
 
-[![Stories in Ready](https://badge.waffle.io/volkhin/roadtrafficsimulator.png?label=ready&title=Ready)](https://waffle.io/volkhin/roadtrafficsimulator)
+## The team 
+
+![Screenshot](images/GreenLightsTeam.png  )
+
