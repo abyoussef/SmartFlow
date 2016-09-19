@@ -25,6 +25,5 @@ And open index.html in your browser. Use **gulp** to rebuild project.
 
 ## The team 
 
-<img src="images/GreenLightsTeam.png" width="48">
+<img src="images/GreenLightsTeam.png"  width="600"  align="middle">
 
-![Screenshot width="48"]( images/GreenLightsTeam.png) 
